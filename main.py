@@ -1,4 +1,5 @@
-#Author: Abigail Bowen aeb6095@psu.edu
+# Author: Abigail Bowen aeb6095@psu.edu
+# Section: 6
 def digit_sum(n):
   if n <= 1:
     return n
